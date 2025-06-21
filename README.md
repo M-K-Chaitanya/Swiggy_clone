@@ -1,54 +1,35 @@
-Swiggy Clone 🍔🍕🚀
-A fully functional food delivery web application inspired by Swiggy, built with React and Node.js. This project showcases modern web development skills with real-time data fetching, smooth user experience, and scalable architecture.
+# Swiggy Clone 🍔🍕🚀
 
-Features ✨
-User Authentication: Secure login and signup functionality for personalized experiences.
+A fully functional **food delivery web application** inspired by Swiggy, built with **React** and **Node.js**. This project showcases modern web development skills with real-time data fetching, smooth user experience, and scalable architecture.
 
-Live Restaurant Data: Dynamic fetching and display of restaurants and menus mimicking Swiggy's real API.
+---
 
-Cart & Order Management: Add items to cart, update quantities, and place orders seamlessly.
+## Features ✨
 
-Responsive UI: Clean and user-friendly design, optimized for desktop and mobile.
+- **User Authentication:** Secure login and signup functionality for personalized experiences.  
+- **Live Restaurant Data:** Dynamic fetching and display of restaurants and menus mimicking Swiggy's real API.  
+- **Cart & Order Management:** Add items to cart, update quantities, and place orders seamlessly.  
+- **Responsive UI:** Clean and user-friendly design, optimized for desktop and mobile.  
+- **Performance Optimizations:** Lazy loading, code splitting, and shimmering placeholders for smooth loading.  
+- **State Management:** Efficient global state handling with Redux for seamless data flow.  
+- **Routing:** Dynamic routing with React Router for an app-like experience.
 
-Performance Optimizations: Lazy loading, code splitting, and shimmering placeholders for smooth loading.
+---
 
-State Management: Efficient global state handling with Redux for seamless data flow.
+## Technologies Used 🛠️
 
-Routing: Dynamic routing with React Router for an app-like experience.
+- Frontend: React, React Router, Redux, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Others: Axios for API calls, JWT for authentication
 
-Technologies Used 🛠️
-Frontend: React, React Router, Redux, Tailwind CSS
+---
 
-Backend: Node.js, Express.js
+## Key Achievements 🎯
 
-Others: Axios for API calls, JWT for authentication
+- Integrated live Swiggy-style API for real-time restaurant and menu updates.  
+- Enhanced user experience with custom hooks and optimized rendering techniques.  
+- Developed scalable and maintainable code using best React practices.  
+- Delivered responsive design compatible across devices.
 
-Key Achievements 🎯
-Integrated live Swiggy-style API for real-time restaurant and menu updates.
-
-Enhanced user experience with custom hooks and optimized rendering techniques.
-
-Developed scalable and maintainable code using best React practices.
-
-Delivered responsive design compatible across devices.
-
-How to Run 🚀
-Clone the repository
-
-Install dependencies in both frontend and backend folders (npm install)
-
-Run backend server (node server.js or npm start)
-
-Run frontend server (npm start)
-
-Open http://localhost:3000 in your browser and explore!
-
-Future Improvements 🔮
-Add payment gateway integration for complete order flow.
-
-Implement user reviews and ratings.
-
-Enhance backend with database persistence (MongoDB).
-
-Deploy on cloud platforms for global access.
+---
 
